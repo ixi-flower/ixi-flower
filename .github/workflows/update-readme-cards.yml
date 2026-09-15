@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F
+          options: username=ixi-flower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F
           path: profile/stats.svg
           fail_on_error: true
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=ixiflower&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F
+          options: username=ixi-flower&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F
           path: profile/top-langs.svg
           fail_on_error: true
           token: ${{ secrets.GITHUB_TOKEN }}

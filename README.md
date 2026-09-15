@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ixiflower/ixiflower/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ixi-flower/ixi-flower/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
         <img src="./profile/stats.svg" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF&sideNums=FF8717" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ixi-flower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF&sideNums=FF8717" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -127,7 +127,7 @@
   <a href="https://ixiflower.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/ixiflower" target="_blank">
+  <a href="https://github.com/ixi-flower" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:amirabbas.rouintan2007@gmail.com" target="_blank">
@@ -141,5 +141,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ixiflower&label=Profile%20Views&color=FF8717&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ixi-flower&label=Profile%20Views&color=FF8717&style=flat" alt="Profile Views" />
 </div>
